@@ -41,3 +41,14 @@ print("12 x 96 =",mul_two_num (12,96))
 print("48 x 17 =",mul_two_num (48,17))
 
 print("196523 x 87323 =",mul_two_num (196523,87323))
+
+
+
+OUTPUT
+
+The Pi value is  3.141592653589793 and the type is <class 'float'>
+i is greater than 50
+The fruit picked is  orange  and its colour is orange
+12 x 96 = 1152
+48 x 17 = 816
+196523 x 87323 = 17160977929
