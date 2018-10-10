@@ -7,7 +7,3 @@ elif n == 5:
 else:
      print("n is greater than five")
 
-
-     answer = input("What is the air-speed velocity of an unladen swallow? ")
-What is the air-speed velocity of an unladen swallow? Huh? I... I don't know that.
-answer
