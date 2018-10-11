@@ -1,3 +1,5 @@
+print("hello world!!")
+
 n = -10
 if n < 5:
 	print("n is less than five")
@@ -74,15 +76,34 @@ mul_two_num()
     print c
 
 
+print("next")
+
+n = -10
+if n < 5:
+	print("n is less than five")
+elif n == 5:
+     print("n is equal to five")
+else:
+     print("n is greater than five")
+print("next")
+
+names = ["chris", "iftach", "jay"]
+for name in names:
+    print(name)
+
+print("next")
+
+fruit_inventory = {"apples": 5, "pears": 2, "oranges": 9}
+for fruit in fruit_inventory:
+    print(fruit)
 
 
+print("next")
 
 
+list(fruit_inventory.items())
+[('oranges', 9), ('apples', 5), ('pears', 2)]
+for fruit in fruit_inventory.items():
+    print(fruit)
 
-
-
-
-
-
-
-     
+print("next")   
